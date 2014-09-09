@@ -1,0 +1,9 @@
+c:\Users\ColinSr\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzzTests\bin\Debug\FizzBuzzTests.dll
+c:\Users\ColinSr\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzzTests\bin\Debug\FizzBuzzTests.pdb
+c:\Users\ColinSr\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzzTests\bin\Debug\FizzBuzzClassLibrary.dll
+c:\Users\ColinSr\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzzTests\bin\Debug\nunit.framework.dll
+c:\Users\ColinSr\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzzTests\bin\Debug\FizzBuzzClassLibrary.pdb
+c:\Users\ColinSr\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzzTests\bin\Debug\nunit.framework.xml
+c:\Users\ColinSr\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzzTests\obj\Debug\FizzBuzzTests.csprojResolveAssemblyReference.cache
+c:\Users\ColinSr\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzzTests\obj\Debug\FizzBuzzTests.dll
+c:\Users\ColinSr\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzzTests\obj\Debug\FizzBuzzTests.pdb

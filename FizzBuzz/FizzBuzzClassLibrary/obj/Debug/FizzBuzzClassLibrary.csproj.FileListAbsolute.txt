@@ -1,0 +1,5 @@
+c:\Users\ColinSr\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzzClassLibrary\bin\Debug\FizzBuzzClassLibrary.dll
+c:\Users\ColinSr\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzzClassLibrary\bin\Debug\FizzBuzzClassLibrary.pdb
+c:\Users\ColinSr\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzzClassLibrary\obj\Debug\FizzBuzzClassLibrary.dll
+c:\Users\ColinSr\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzzClassLibrary\obj\Debug\FizzBuzzClassLibrary.pdb
+c:\Users\ColinSr\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzzClassLibrary\obj\Debug\FizzBuzzClassLibrary.csprojResolveAssemblyReference.cache
