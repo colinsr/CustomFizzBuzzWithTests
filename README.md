@@ -1,4 +1,5 @@
 CustomFizzBuzzWithTests
 =======================
 
-The current maximum upper bound we can support is 2,147,483,647.
+Version of FizzBuzz with unit tests and ability to pass in custom divisors.
+

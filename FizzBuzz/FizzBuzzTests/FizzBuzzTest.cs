@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using FizzBuzzClassLibrary;
 using NUnit.Framework;
 
@@ -118,5 +119,50 @@ namespace FizzBuzzTests
             Assert.That(results, Is.EqualTo(expected));
         }
 
+        [Test]
+        public void RunDefaultFizzBuzzWith54735699AsUpperBoundThrowsOutOfMemoryException()
+        {
+            //Arrange
+            FizzBuzz f = new FizzBuzz(54735699);
+            OutOfMemoryException expected = null;
+            
+            //Act
+            try
+            {
+            string[] results = f.RunFizzBuzz();
+            }
+            catch (OutOfMemoryException ex)
+            {
+                expected = ex;
+            }
+
+            //Assert
+            Assert.That(expected != null);
+        }
+
+        [Test]
+        public void RunDefaultFizzBuzzWith54735698AsUpperBoundPasses()
+        {
+            //Arrange
+            FizzBuzz f = new FizzBuzz(54735698);
+            OutOfMemoryException expected = null;
+
+            //Act
+            try
+            {
+                string[] results = f.RunFizzBuzz();
+            }
+            catch (OutOfMemoryException ex)
+            {
+                if (ex != null)
+                {
+                    expected = ex;
+                }
+                
+            }
+
+            //Assert
+            Assert.That(expected == null);
+        }
     }
 }

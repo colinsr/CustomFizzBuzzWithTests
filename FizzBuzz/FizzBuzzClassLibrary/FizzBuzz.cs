@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace FizzBuzzClassLibrary
 {
@@ -40,7 +37,7 @@ namespace FizzBuzzClassLibrary
 
             for (int i = 1; i <= UpperBound; i++)
             {
-                StringBuilder sb = new StringBuilder();//so that I can concatenate the messages
+                StringBuilder sb = new StringBuilder();
 
                 foreach (var customDivisor in Divisors)
                 {
@@ -48,10 +45,8 @@ namespace FizzBuzzClassLibrary
                     {
                         sb.Append(customDivisor.Message);
                     }
-                    //here if sb.length is < 1 (empty) then print number
                     strings[i - 1] = sb.Length < 1 ? i.ToString() : sb.ToString();
                 }
-                
             }
 
             return strings;

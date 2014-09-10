@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using FizzBuzzClassLibrary;
 
 
 namespace FizzBuzz
@@ -12,7 +7,7 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
-            FizzBuzzClassLibrary.FizzBuzz f = new FizzBuzzClassLibrary.FizzBuzz(100);
+            var f = new FizzBuzzClassLibrary.FizzBuzz(54735699);
 
             string[] result = f.RunFizzBuzz();
 

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{F137C148-F287-448B-9893-798F85528590}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzConsole", "FizzBuzz\FizzBuzzConsole.csproj", "{F137C148-F287-448B-9893-798F85528590}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzClassLibrary", "FizzBuzzClassLibrary\FizzBuzzClassLibrary.csproj", "{6824C615-D090-4322-8021-1FAD1878507A}"
 EndProject
